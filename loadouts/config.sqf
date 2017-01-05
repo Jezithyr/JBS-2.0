@@ -33,3 +33,6 @@ _loadouts = [
 ["jointFires","JTAC.sqf"]
 
 ];
+
+
+_loadouts 
