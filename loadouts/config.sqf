@@ -2,35 +2,35 @@
 _loadouts = [
 
 //aviation
-["aviation","heliCrew.sqf"],
-["aviation","fixedPilot.sqf"],
-["aviation","heliPilot.sqf"],
+["aviation","heliCrew"],
+["aviation","fixedPilot"],
+["aviation","heliPilot"],
 
 //ODA/ISR
-["ODA-ISR","UAV-tech.sqf"],
-["ODA-ISR","operator.sqf"],
-["ODA-ISR","teamleader.sqf"],
-["ODA-ISR","medic.sqf"],
+["ODA-ISR","UAV-tech"],
+["ODA-ISR","operator"],
+["ODA-ISR","teamleader"],
+["ODA-ISR","medic"],
 
 //Infantry
-["infantry","AASpecialist.sqf"],
-["infantry","ATRifleman.sqf"],
-["infantry","grenadier.sqf"],
-["infantry","machineGunner.sqf"],
-["infantry","marksman.sqf"],
-["infantry","medic.sqf"],
-["infantry","rifleman.sqf"],
-["infantry","teamleader.sqf"],
+["infantry","AASpecialist"],
+["infantry","ATRifleman"],
+["infantry","grenadier"],
+["infantry","machineGunner"],
+["infantry","marksman"],
+["infantry","medic"],
+["infantry","rifleman"],
+["infantry","teamleader"],
 
 //cavalry
-["cavalry","crewman.sqf"],
-["cavalry","engineer.sqf"],
-["cavalry","grenadier.sqf"],
-["cavalry","medic.sqf"],
-["cavalry","rifleman.sqf"],
+["cavalry","crewman"],
+["cavalry","engineer"],
+["cavalry","grenadier"],
+["cavalry","medic"],
+["cavalry","rifleman"],
 
 //JointFires
-["jointFires","JTAC.sqf"]
+["jointFires","JTAC"]
 
 ];
 
